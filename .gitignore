@@ -1,0 +1,33 @@
+# 🔧 Node modules
+node_modules/
+
+# 🛑 Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# 🧪 Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 📦 Package manager lock files (optional)
+package-lock.json
+
+# 📁 OS files
+.DS_Store
+Thumbs.db
+
+# 🛠️ Build output (if applicable)
+dist/
+build/
+coverage/
+.cache/
+
+# 🧪 Testing
+jest-coverage/
+
+# 🚀 VSCode project settings (optional)
+.vscode/
