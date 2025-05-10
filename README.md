@@ -3,6 +3,7 @@ FullStack Real-Time Chat App with Image Uploads
 Socket.io-JWT-TailwindCSS
 
 Following tutorial on udemy https://smusg.udemy.com/course/the-web-dev-bootcamp/learn/lecture/47848063#content
+
 Progress : Stopped at 5:31 Frontend Setup
 
 # Backend
